@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.499f3fae.css",
+    "main.js": "/static/js/main.ca0859ca.js",
+    "static/media/geometric.png": "/static/media/geometric.281bf8e284f9edeba264.png",
+    "static/media/lettuce.png": "/static/media/lettuce.6ddd92a72565a0c8de00.png",
+    "static/media/Postgresql.svg.png": "/static/media/Postgresql.svg.66ca39a1fb37fc304bfa.png",
+    "static/media/javascript.png": "/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/python.png": "/static/media/python.e224d424bedf8a8bac19.png",
+    "static/media/Csharp.png": "/static/media/Csharp.fc430729bfa8902c06fd.png",
+    "static/media/Go.svg.png": "/static/media/Go.svg.ef688fa10842e4690eaa.png",
+    "static/media/Solidity.svg.png": "/static/media/Solidity.svg.69de579e3400bd1a2417.png",
+    "static/media/docker.webp": "/static/media/docker.97f28ff91e8bcb695d21.webp",
+    "index.html": "/index.html",
+    "main.499f3fae.css.map": "/static/css/main.499f3fae.css.map",
+    "main.ca0859ca.js.map": "/static/js/main.ca0859ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.499f3fae.css",
+    "static/js/main.ca0859ca.js"
+  ]
+}
