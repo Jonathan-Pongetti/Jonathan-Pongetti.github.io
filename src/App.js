@@ -1,10 +1,14 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import {Navbar, About, Header, Workexp, Skills, Contact} from './components';
 
 import './App.css';
 
-const App = () => (
-  <div className="App">
+const App = () => {
+  useEffect(() => {
+    document.title = "Jonathan Pongetti";
+  }, []);
+ return ( <div className="App">
+    <title>Jonathan Pongetti</title>
     <div className='gradient__bg'>
       <Navbar />
       <Header />    
@@ -16,5 +20,6 @@ const App = () => (
 
   </div>
 );
+}
 
 export default App;
